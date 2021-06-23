@@ -8,8 +8,20 @@ Artificial Neural Networks (ANNs) were inspired by information processing and di
  - Feed Forward ANN
  - Back Forward ANN
  - Artificial Neural Networks Model
- - Single Layer Perceptron Model
+ - Sigmoid Neuron
+ - Single Cell Perceptron Model
  - Multi  Layer Perceptron Model
+ - Error Function
+ - Gradient Descent
+ - Stochastic Gradient Descent
+ - Epoch
+ - Cross Entropy Error Function (Classification)
+ - Forward Progation
+ - Back    Progation
+ - Tensorflow
+ - Keras
+ - ANN Architectures using Functional API
+
  
  ## Projects using Artificial Neural Networks (ANN):
  - HandWritten Digit Recognition using ANN
