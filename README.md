@@ -24,5 +24,7 @@ Artificial Neural Networks (ANNs) were inspired by information processing and di
 
  
  ## Projects using Artificial Neural Networks (ANN):
- - HandWritten Digit Recognition using ANN
- - Build an ANN Regression Model to predict the Electrical Energy Output of a Combined Cycle Power Plant
+ - HandWritten Digit Recognition using Artificial Neural Networks (ANN).
+ - Build an ANN Regression Model to predict the Electrical Energy Output of a Combined Cycle Power Plant.
+ - Build an Artificial Neural Networks (ANN) Classification Model to Image classify in Fashion House Cloths. 
+ - Build an Artificial Neural Networks (ANN) Regression Model to predict California Household Price.
