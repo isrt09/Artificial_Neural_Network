@@ -6,7 +6,7 @@ Artificial Neural Networks (ANNs) were inspired by information processing and di
  - Parts of Artificial Neural Networks
  - ANN Activity Functions
  - Feed Forward ANN
- - Back Forwar ANN
+ - Back Forward ANN
  - Artificial Neural Networks Model
  - Single Layer Perceptron Model
  - Multi  Layer Perceptron Model
